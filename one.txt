@@ -1,1 +1,2 @@
 Added new .txt file for git testing
+Updating the user name and password
