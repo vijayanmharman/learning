@@ -1,2 +1,9 @@
 Added new .txt file for git testing
-Updating the user name and password
+Updating the user name
+
+
+
+
+
+12-052020 - Tuesday
+Today I learn new more commands in GIT
