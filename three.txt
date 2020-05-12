@@ -1,3 +1,5 @@
 New text file for Three.js
 
 added new scripts for index html file
+
+added wrong code
