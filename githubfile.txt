@@ -1,3 +1,6 @@
 - Created this githubfile in github website, 
 - this is for how to pull the latest file from remote to local server
 - this file i have created through github website
+
+
+Yes, i got the updates from server, now its working as expected.
